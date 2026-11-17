@@ -940,7 +940,7 @@ dependencies = [
  "designcraft-geom",
  "hypher",
  "log",
- "miniz_oxide 0.8.9",
+ "miniz_oxide 0.9.1",
  "proptest",
  "regex",
  "unicode-bidi",
