@@ -21,7 +21,7 @@ image = { workspace = true }
 thiserror = { workspace = true }
 log = { workspace = true }
 # The placed-PDF version check names hayro's PdfVersion (krilla::pdf::Pdf::version returns it).
-hayro-syntax = "0.7.2"
+hayro-syntax = "0.9.0"
 
 [dev-dependencies]
 hayro-interpret = { version = "0.7.0", default-features = false, features = ["embed-fonts"] }

@@ -37,7 +37,7 @@ tempfile = { workspace = true }
 [dev-dependencies]
 designcraft-fonts = { workspace = true, features = ["testing"] }
 zip = { workspace = true }
-hayro-syntax = "0.7.2"
+hayro-syntax = "0.9.0"
 hayro-interpret = { version = "0.7.0", default-features = false, features = ["embed-fonts"] }
 hayro-cmap = "0.1"
 kurbo = { workspace = true }
